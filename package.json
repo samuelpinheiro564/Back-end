@@ -1,0 +1,17 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Projeto de AULA Back-End Senai",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs",
+    "JavaScript",
+    "SENAi",
+    "TDS01"
+  ],
+  "author": "Samuel Pinheiro",
+  "license": "ISC"
+}
